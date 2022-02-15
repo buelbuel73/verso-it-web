@@ -6,7 +6,7 @@
     <description>Recent content on Verso IT Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2022 20:40:49 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 21:57:56 +0100</lastBuildDate>
     
 	<atom:link href="https://buelbuel73.github.io/verso-it-web/index.xml" rel="self" type="application/rss+xml" />
     
@@ -45,12 +45,22 @@ in the documentation.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Testpost</title>
+      <link>https://buelbuel73.github.io/verso-it-web/post/testpost/</link>
+      <pubDate>Tue, 15 Feb 2022 21:57:56 +0100</pubDate>
+      
+      <guid>https://buelbuel73.github.io/verso-it-web/post/testpost/</guid>
+      <description>Testpost</description>
+    </item>
+    
+    <item>
       <title>Impressum</title>
       <link>https://buelbuel73.github.io/verso-it-web/impressum/</link>
       <pubDate>Tue, 15 Feb 2022 20:40:49 +0100</pubDate>
       
       <guid>https://buelbuel73.github.io/verso-it-web/impressum/</guid>
-      <description>IMPRESSUM</description>
+      <description>IMPRESSUM
+TEST TEST</description>
     </item>
     
     <item>

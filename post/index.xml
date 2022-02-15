@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Verso IT Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 21:57:56 +0100</lastBuildDate>
     
 	<atom:link href="https://buelbuel73.github.io/verso-it-web/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testpost</title>
+      <link>https://buelbuel73.github.io/verso-it-web/post/testpost/</link>
+      <pubDate>Tue, 15 Feb 2022 21:57:56 +0100</pubDate>
+      
+      <guid>https://buelbuel73.github.io/verso-it-web/post/testpost/</guid>
+      <description>Testpost</description>
+    </item>
     
     <item>
       <title>Basic HTML Elements</title>
